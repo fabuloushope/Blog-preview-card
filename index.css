@@ -13,3 +13,22 @@ body {
     height: 100vh;
 }
 
+.main-div {
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    max-width: 300px;
+    margin-left: 6%;
+}
+
+.head-sction {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.main-div img {
+    max-width: 260px;
+    border-radius: 12px;
+}
