@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+root {
+    --text: 12px;
+
+}
+
 body {
     font-family: 'Inter', sans-serif;
     background-color: hsl(47, 88%, 63%);
@@ -39,4 +44,8 @@ body {
     width: 30%;
     padding: 5px;
     border-radius: 9%;
+}
+
+.publish-date {
+    font-size: var(--text);
 }
