@@ -1,12 +1,15 @@
-* {
+  *, *:before, *:after {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+  }
 
 root {
-    --text: 12px;
-
+    --font-size: 10px;
+    --line-height-small: 1.2;
+    --line-height-base: 1.5;
+    --line-height-big: 1.8;
 }
 
 body {
@@ -16,6 +19,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    line-height: var(--line-height-small);
 }
 
 .main-div {
@@ -47,5 +51,5 @@ body {
 }
 
 .publish-date {
-    font-size: var(--text);
+    font-size: var(--font-size);
 }
