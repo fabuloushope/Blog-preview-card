@@ -27,7 +27,9 @@ body {
     background-color: white;
     padding: 10px;
     border-radius: 15px;
-    max-width: 300px;
+    max-width: 305px;
+    border: 1px solid #000;
+    box-shadow: 10px 10px #000;
     /* margin-left: 6%; */
 }
 
@@ -52,6 +54,11 @@ body {
     border-radius: 9%;
 }
 
+.initialise p {
+    font-weight: 700;
+    padding: 5px;
+}
+
 .publish-date {
     font-size: 15px;
     /* background-color: hsl(47, 88%, 63%); */
@@ -71,4 +78,27 @@ body {
     font-size: 16px;
     font-weight: 500;
     overflow: hidden;
+    margin: 10px 0;
+}
+
+/* Avatar */
+.avatar {
+    display: flex;
+    align-items: baseline;
+    margin: 10px 0;
+    /* justify-content: space-between; */
+}
+
+.avatar-img {
+    width: 30px;
+    /* position: inherit; */
+    margin-right: 50px
+}
+
+.inset-img {
+    width: 50px;
+}
+
+.avatar-name {
+    margin-bottom: 10px;
 }
