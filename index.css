@@ -73,6 +73,11 @@ body {
     margin: 10px 0;
 }
 
+.main-heading:active {
+    background-color: hsl(47, 88%, 63%);
+    transform: scale(0.98)
+}
+
 /* Text-Area */
 .textarea {
     font-size: 16px;
