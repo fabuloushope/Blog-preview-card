@@ -73,9 +73,9 @@ body {
     margin: 10px 0;
 }
 
-.main-heading:active:hover {
+.main-heading:hover:active {
     background-color: hsl(47, 88%, 63%);
-    transform: scale(0.98);
+    /* transform: scale(0.98); */
     cursor: pointer;
 }
 
