@@ -77,3 +77,5 @@ It's really fun to use responsive designs
 ## Acknowledgments
 
 I want give most thanks `Frontend Mentor` for introducing this learning path for us beginners. It's really Great.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
