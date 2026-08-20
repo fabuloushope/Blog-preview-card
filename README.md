@@ -1,5 +1,7 @@
 # Frontend Mentor - Blog preview card solution
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
@@ -77,5 +79,3 @@ It's really fun to use responsive designs
 ## Acknowledgments
 
 I want give most thanks `Frontend Mentor` for introducing this learning path for us beginners. It's really Great.
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
