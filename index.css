@@ -64,7 +64,7 @@ body {
     margin: 10px 0;
 }
 
-.main-heading:hover:active {
+.main-heading:hover, .main-heading:focus-visible {
     color: hsl(47, 88%, 63%);
     transform: scale(0.98);
     cursor: pointer;
