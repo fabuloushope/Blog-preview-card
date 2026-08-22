@@ -25,15 +25,15 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### The challenge
 
-![](./assets/challenge-preview.jpg alt="Challenge preview Image")
+![Screenshot of the challenge](./assets/challenge-preview.jpg alt="Challenge Image")
 
 ### Screenshot
 
-![](./assets/screenshot.png alt="Screenshot of the Blog preview card component solution")
+![Screenshot of the solution](./assets/screenshot.png alt="Screenshot of the Blog preview card component solution")
 
 ### Links
 
-- Live Site URL: [live site URL here](https://blog-preview-card-blue-ten.vercel.app/)
+- Live Site URL: [View the live site](https://blog-preview-card-blue-ten.vercel.app/)
 
 ## My process
 
